@@ -3265,8 +3265,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-image: url("images\IMG_20190720_125007_367.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("images\IMG_20190720_125007_367.jpg");
+			background-color: #374458;
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3418,19 +3418,19 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 5rem;
+			font-size: 8rem;
 			line-height: 1;
 		}
 
 		#intro p {
-			font-size: 1.25rem;
+			font-size: 1.5rem;
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
 		}
 
 		#intro + #header {
-			margin-top: -20rem;
+			margin-top: -10rem;
 		}
 
 			#intro + #header .logo {

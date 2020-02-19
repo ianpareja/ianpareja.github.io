@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #000000;
 	}
 
 	body, input, select, textarea {
@@ -3265,8 +3265,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-image: url("images\IMG_20190720_125007_367.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("images\IMG_20190720_125007_367.jpg");
-			background-color: #374458;
+			background-image: linear-gradient(0deg, rgba(5, 20, 31, 0.377), rgba(12, 29, 53, 0.89));
+			background-color: #ffffffa1;
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3790,7 +3790,7 @@ body, html {
 }		
 	/* Hero Image */
 .hero-image {
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("ianpareja.github.io/assets/css/ianpareja.github.io/images/RyQebyG8T1e36JlGO6E1BQ_thumb_3d4.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("ianpareja.github.io/assets/css/ianpareja.github.io/images/00100trPORTRAIT_00100_BURST20191221150809435_COVER.jpg");
 	/* Set a specific height */
 	height:50%;
 

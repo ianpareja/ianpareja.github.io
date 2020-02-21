@@ -255,4 +255,16 @@
 
 		}
 
+		// CLP Slideshow
+		$("#clpslides > div:gt(0)").hide();
+
+			setInterval(function() {
+			$('#clpslides > div:first')
+				.fadeOut(0)
+				.next()
+				.fadeIn(000)
+				.end()
+				.appendTo('#clpslides');
+			}, 3000);
+
 })(jQuery);

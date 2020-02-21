@@ -4737,14 +4737,14 @@ body, html {
 		
 		#clpslides {
 			margin: 10px auto;
-			position: center;
+			position: relative;
 			width: fill;
 			height: fill;
 			box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 		  }
 		  
 		  #clpslides > div {
-			position: center;
+			position: relative;
 			top: 10px;
 			left: 10px;
 			right: 10px;

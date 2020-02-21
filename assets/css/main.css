@@ -4733,22 +4733,4 @@ body, html {
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
 		}
-
-		#clpslides {
-			margin: 80px auto;
-			position: center;
-			width: fill;
-			height: fill;
-			padding: 10px;
-			box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-		  }
-		  
-		  #clpslides > div {
-			position: center;
-			top: 10px;
-			left: 10px;
-			right: 10px;
-			bottom: 10px;
-		  }
-
 	}

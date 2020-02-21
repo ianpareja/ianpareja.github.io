@@ -262,7 +262,7 @@
 			$('#clpslides > div:first')
 				.fadeOut(0)
 				.next()
-				.fadeIn(000)
+				.fadeIn(0)
 				.end()
 				.appendTo('#clpslides');
 			}, 3000);

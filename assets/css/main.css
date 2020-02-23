@@ -3918,15 +3918,15 @@ body, html {
 			}
 
 				#main > .posts > article > :last-child {
-					margin-bottom: 0;
+					margin-bottom: auto;
 				}
 
 				#main > .posts > article:nth-child(2n - 1) {
-					border-left-width: 0;
+					border-left-width: auto;
 				}
 
 				#main > .posts > article:nth-child(-n + 2) {
-					border-top-width: 0;
+					border-top-width: auto;
 				}
 
 			@media screen and (max-width: 980px) {
@@ -4745,10 +4745,10 @@ body, html {
 		  
 		  #clpslides > div {
 			position: relative;
-			top: 10px;
-			left: 10px;
-			right: 10px;
-			bottom: 10px;
+			top: 0px;
+			left: 0px;
+			right: 0px;
+			bottom: 0px;
 		  }
 
 
